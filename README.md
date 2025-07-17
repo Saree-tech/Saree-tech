@@ -28,16 +28,9 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(add your link)*
-- 🌐 [Portfolio](https://yourwebsite.com) *(optional if you have one)*
-- 📧 Email: `your.email@example.com` *(optional)*
-
----
-
-### 📈 GitHub Stats *(Optional)*
-
-![Sareen's GitHub stats](https://github-readme-stats.vercel.app/api?username=SareenFatima&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SareenFatima&layout=compact)
+- 💼 [LinkedIn](www.linkedin.com/in/sareen-fatima-960a96325) 
+- 🌐 [Portfolio](https://yourwebsite.com) 
+- 📧 Email: `sfatima4508@gmail.com` 
 
 ---
 
