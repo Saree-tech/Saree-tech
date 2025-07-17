@@ -28,8 +28,7 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/sareen-fatima-960a96325) 
-- 🌐 [Portfolio](https://yourwebsite.com) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/sareen-fatima-960a96325)
 - 📧 Email: `sfatima4508@gmail.com` 
 
 ---
