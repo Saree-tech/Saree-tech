@@ -1,7 +1,3 @@
-Perfect! You can add a small note at the end of your **Projects section** to indicate that these are only a few examples of your work. I’ve updated your README with that addition while keeping the formatting consistent:
-
----
-
 # 👋 Hi, I’m Sareen Fatima
 
 🎓 **Bachelor's Student in Computer Science**
@@ -94,4 +90,3 @@ A fully interactive 3D chess game focusing on **HCI principles** and immersive g
 
 When I'm not coding, I’m dissecting **algorithms**, exploring **cloud architectures**, or blending **art and technology** through interactive graphics and creative projects! 🚀
 
-Do you want me to do that?
