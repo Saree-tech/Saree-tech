@@ -1,6 +1,3 @@
-Got it! I can restructure your README with **clear, professional headings, concise content, and visually organized sections** so it reads like a polished **portfolio README**. I’ll also make it more engaging with small highlights, sections for **Projects, Achievements, and Skills**, while keeping your style. Here’s the upgraded version:
-
----
 
 # 👋 Hi, I’m Sareen Fatima
 
