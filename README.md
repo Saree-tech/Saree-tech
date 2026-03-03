@@ -73,7 +73,7 @@ A platform for chefs to collaborate, share recipes, and communicate efficiently.
 A fully interactive 3D chess game focusing on HCI principles and immersive graphics.
 ---
 
-## 📫 Connect with Me
+## 📫 Connect Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/sareen-fatima-960a96325)
 * 📧 Email: `sfatima4508@gmail.com`
